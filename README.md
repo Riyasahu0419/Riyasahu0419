@@ -1,7 +1,7 @@
 I'm a Front-end development student skilled in HTML, CSS, and JavaScript, seeking an internship to apply expertise and collaborate in a dynamic team setting✨.
 
 
-- 👋 Hi, I’m @Riyasahu0419
+- 👋 Hi, I’m Riya sahu
 - 🌍 I'm based in Bhopal, India
 - 👀 I’m interested in full stack web development..
 - 🌱 I’m currently learning python 
