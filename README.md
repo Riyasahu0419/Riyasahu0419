@@ -1,7 +1,6 @@
 
-   <h1>Hi 👋 , I'm Riya Sahu </h1>
+   ##Hi 👋 , I'm Riya Sahu 
 
-￼ #WebDev"
 <img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/women-sitting-bean-bag-chair-making-use-laptop-vector-illustration_590570-33.jpg?w=2000">
 
 
@@ -20,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1>￼ Socials￼</h1>
+## Socials￼
 <p align="left">
 <a href="https://https://github.com/Riyasahu0419" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
