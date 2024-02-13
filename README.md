@@ -1,7 +1,7 @@
-   ### 👋 Hi, I’m Riya sahu
-   <h1>Hi ￼, I'm Riya Sahu </h1>
 
-"￼ Aspiring Full Stack Web Developer. Let's code together and turn ideas into captivating online experiences! ￼￼ #WebDev"
+   <h1>Hi 👋 , I'm Riya Sahu </h1>
+
+￼ #WebDev"
 <img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/women-sitting-bean-bag-chair-making-use-laptop-vector-illustration_590570-33.jpg?w=2000">
 
 
