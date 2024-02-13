@@ -1,4 +1,8 @@
    ### 👋 Hi, I’m Riya sahu
+   <h1>Hi ￼, I'm Riya Sahu </h1>
+
+"￼ Aspiring Full Stack Web Developer. Let's code together and turn ideas into captivating online experiences! ￼￼ #WebDev"
+<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/women-sitting-bean-bag-chair-making-use-laptop-vector-illustration_590570-33.jpg?w=2000">
 
 
 I'm a Front-end development student skilled in HTML, CSS, and JavaScript, seeking an internship to apply expertise and collaborate in a dynamic team setting✨
