@@ -39,9 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="left">￼ GitHub Stats</h1>
+![Riyasahu0419's Stats](https://github-readme-stats.vercel.app/api?username=Riyasahu0419&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Riyasahu0419's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riyasahu0419&theme=tokyonight&hide_border=false)
+![Riyasahu0419's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyasahu0419&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![mansibagul82's Stats](https://github-readme-stats.vercel.app/api?username=mansibagul82&theme=radical&show_icons=true&hide_border=false&count_private=false)
-![mansibagul82's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansibagul82&theme=radical&hide_border=false)
-![mansibagul82's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansibagul82&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 
 ## ￼ Get in Touch
