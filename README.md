@@ -1,7 +1,7 @@
 
    ## Hi 👋 , I'm Riya Sahu 
 
-<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/women-sitting-bean-bag-chair-making-use-laptop-vector-illustration_590570-33.jpg?w=2000">
+<img align="right" alt="Coding" width="500" src="https://padlet-uploads.storage.googleapis.com/696561870/2-eb0dOgy99qlUmpVgBnlA/3328eccfe8d41ff5d72194c4b17b019b.png">
 
 
 I'm a Front-end development student skilled in HTML, CSS, and JavaScript, seeking an internship to apply expertise and collaborate in a dynamic team setting✨
