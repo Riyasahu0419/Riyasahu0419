@@ -1,8 +1,6 @@
 
-   ## Hi 👋 , I'm Riya Sahu 
-
-<img align="right" alt="Coding" width="500" src="https://padlet-uploads.storage.googleapis.com/696561870/2-eb0dOgy99qlUmpVgBnlA/3328eccfe8d41ff5d72194c4b17b019b.png">
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Huzaifa Sheikh</h1>
+  
 
 I'm a Front-end development student skilled in HTML, CSS, and JavaScript, seeking an internship to apply expertise and collaborate in a dynamic team setting✨
 
