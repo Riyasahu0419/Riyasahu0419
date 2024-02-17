@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Huzaifa Sheikh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Riya Sahu</h1>
   
 
 I'm a Front-end development student skilled in HTML, CSS, and JavaScript, seeking an internship to apply expertise and collaborate in a dynamic team setting✨
