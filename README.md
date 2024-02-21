@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Socials￼
+
+## 🌐 Socials
 
 <a href="https://https://github.com/Riyasahu0419" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -33,14 +34,17 @@ You can click the Preview link to take a look at your changes.
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0082C9?style=flat)
 
-## Tools
+
+
+# 💻 Tech Stack
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-## GitHub Stats
+
+# 📊 GitHub Stats
 
 ![Riyasahu0419's Stats](https://github-readme-stats.vercel.app/api?username=Riyasahu0419&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![Riyasahu0419's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riyasahu0419&theme=tokyonight&hide_border=false)
