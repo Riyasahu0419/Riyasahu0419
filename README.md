@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- ![React.js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfk6h9BFRnr49pGyzU95OwqOwtEBAnL3Nzsg&) 
+- ![React.js]() 
 
 
 - ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0082C9?style=flat)
