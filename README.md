@@ -9,7 +9,7 @@
 - 👀 I’m interested in full stack web development..
 - 🌱 I’m currently learning python 
 - 📫 How to reach me riyasahu678876@gmail.com
-- 💼 Portfolio - https://65a6c1030b8e67007443a78a--glowing-sopapillas-8bc51c.netlify.app/
+- 💼 Portfolio - https://portfolio-chi-wheat-42.vercel.app/
 
 <!---
 Riyasahu0419/Riyasahu0419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
