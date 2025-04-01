@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- ![React.js][https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EqL3Rezy-aEsS_v384k_iywdbC5T-BRcU7q-WvbsZvtcFtV4Yhr_hJRUgq6v_5mN0_Q&usqp=CAU) 
-- ![Node.js]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh54BpI8JomBzhFyfYLDKzm4ti3uHTsNqzg&s) 
-- ![MongoDb]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vIRlsojcPkaQxTMExn6Tp63hHY-lY534rg&s) 
+- ![React.js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8EqL3Rezy-aEsS_v384k_iywdbC5T-BRcU7q-WvbsZvtcFtV4Yhr_hJRUgq6v_5mN0_Q&usqp=CAU) 
+- ![Node.js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh54BpI8JomBzhFyfYLDKzm4ti3uHTsNqzg&s) 
+- ![MongoDb](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vIRlsojcPkaQxTMExn6Tp63hHY-lY534rg&s) 
 
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
