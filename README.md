@@ -21,12 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials
 
-<a href="[https://https://github.com/Riyasahu0419](https://github.com/Riyasahu0419)" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="[[https://www.linkedin.com/in/riya-sahu-08a462230/](https://www.linkedin.com/in/riya-sahu-08a462230/))" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-   </a>
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riyasahu0419)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-sahu-08a462230/)
+
 
 ## Tech Stacks
 
